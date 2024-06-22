@@ -1,0 +1,11 @@
+.sliderImg{
+	height: 650px;
+}
+
+.sliderData{
+	background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+	padding: 20px;
+}
+.cardimage{
+	height:350px;
+}
