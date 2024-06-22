@@ -1,0 +1,35 @@
+.navbar.navbar-brand a{
+    color:orange;
+}
+.navbar{
+    border-radius: 10px;
+}
+.navbar ul li a{
+    text-transform: uppercase;
+    margin: 0px 30px 0px 60px;
+}
+.sliderimage{
+    height:600px;
+    margin-top: 20px;
+}
+.sliderData{
+    background: rgba(0,0,0,0.4);
+}
+.cardimage{
+    height: 300px; 
+}
+.card{
+    margin: 50px 20px 0px 20px;
+}
+.cardbody h5{
+    color:orange;
+    text-align: center;
+    font-size:20px;
+}
+.form1{
+    border:2px solid grey;
+    width:300px;
+    height:500px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
